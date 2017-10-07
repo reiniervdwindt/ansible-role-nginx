@@ -1,0 +1,7 @@
+---
+# Application
+application_name: "app"
+application_hostname: "www.example.org"
+
+# Nginx
+nginx_template: "default.j2"
